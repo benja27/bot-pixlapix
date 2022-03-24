@@ -1,0 +1,200 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "Hola!✌️ Gracias por comuncarte a PIXLAPIX, yo soy PIXI y soy un CHATBOT🤖 de Whatsapp, te ayudare a elegir el servicio que requieras 😎 \n\n",
+            "Nuestros servicios incluyen \n",
+            "1. Web \n",
+            "2. Video \n",
+            "3. Animacion \n",
+            "4. Diseño, Marqueting e impresos \n",
+            "5. Relaciones publicas \n",
+            "6. Sistematizacion \n",
+            "7. Habla con un Asesor \n \n",
+            "puedes ingresar a nuestra pagina web \n",
+            "https://www.pixlapix.net/ \n\n",
+            "Responde con el numero de opcion"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "SALUDO":{
+        "replyMessage":[
+            "Hola!✌️ Gracias por comuncarte a PIXLAPIX, yo soy PIXI y soy un CHATBOT🤖 de Whatsapp, te ayudare a elegir el servicio que requieras 😎 \n\n",
+            "Nuestros servicios incluyen \n",
+            "1. Web \n",
+            "2. Video \n",
+            "3. Animacion \n",
+            "4. Diseño, Marqueting e impresos \n",
+            "5. Relaciones publicas \n",
+            "6. Sistematizacion \n",
+            "7. Habla con un Asesor \n \n",
+            "puedes ingresar a nuestra pagina web \n",
+            "https://www.pixlapix.net/ \n\n",
+            "Responde con el numero de opcion"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "WEB":{
+        "replyMessage":[
+            "1. Paginas Web \n",
+            "2. Paginas Wordpress \n",
+            "3. SEO \n",
+            "4. SEM \n",
+            "5. E-learning \n",
+            "6. Presentaciones profesionales \n",
+            "7. Mailing masivo \n \n"
+        ],
+        "media":null,
+        "trigger":null
+            
+            
+    },
+    "video":{
+        "replyMessage":[
+            "1. Produccion de video: \n",
+            " \t -televisiva \n",
+            " \t -alta resolucion \n",
+            " \t -Youtube \n",
+            "2. Edicion \n",
+            "3. Locucion \n",
+            "4. Audio y Musica \n \n",
+            "5. Levantamiento de imagen \n"
+            
+        ],
+
+        "media":null,
+        "trigger":null
+    },
+    "animacion":{
+        "replyMessage":[
+            "1. 2D \n",
+            "2. 3D \n",
+            "3. Motion Graphics \n",
+            "4. Ilustracion \n",
+            "5. Stickers para WP y Telegram \n",
+            "6. Animacion para videojuego HML5 \n"
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "impresos":{
+        "replyMessage":[
+            "1. Revistas electronicas  \n",
+            "2. Revistas impresas \n",
+            "3. Libros Electronicos \n",
+            "4. Libros impresos \n",
+            "5. Edicion, Redaccion y correccion de estilo en textos \n",
+            "6. Branding \n",
+            "7. Mercadotecnia digital \n",
+            "8. Inbound marqueting \n",
+            "9. BTL \n",
+            "10. Infografia \n",
+            "11. Fotografia \n",
+            "12. Diseño \n"
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "relaciones":{
+        "replyMessage":[
+            "1. Estrategia de reputacion corporativa \n",
+            "2. Entrenamiento de medios \n",
+            "3. Auditoría de medios \n",
+            "4. Mapeo de medios \n",
+            "5. Mapeo de foros \n",
+            "6. Plataforma de mensajes clave \n",
+            "7. Comunicación Interna \n",
+            "8. Newsletter interno \n",
+            "9. Town Hall \n",
+            "10. Relación con medios \n",
+            "11. Comunicados de prensa \n",
+            "12. Infografías \n",
+            "13. Entrevistas 1:1 \n",
+            "14. Reuniones de buena voluntad \n",
+            "15. Mesa redonda \n",
+            "16. Convocatoria de medios a eventos corporativos \n",
+            "17. Cultura corporativa \n",
+            "18. Manejo de redes sociales \n",
+            "19. Baclinks \n",
+            "20. Control de crisis \n",
+            "21. Aumento de vistas en redes \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "sistema":{
+        "replyMessage":[
+            "1. Creación de Chatbots \n",
+            "2. Newsletter masivo \n",
+            "3. Pixeles \n",
+            "4. Indexado \n",
+            "5. QR personalizados \n",
+            "6. APIs \n"
+            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    "asesor":{
+        "replyMessage":[
+            "¿No encuentra la opción que requiere? \n",
+            "Hable con nuestro asesor de L a V de 7:00 a 22:00 \n",
+            "Gracias por comunicarse a PIXLAPIX.    Materializamos ideas y con tecnología innovamos"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    
+    
+    
+    
+    
+    "STEP_4":{
+        "replyMessage":[
+            "Gracias a ti! \n"
+        ],
+        "media":"https://media4.giphy.com/media/hur0SFIU5SH4mxNBWa/giphy.gif",
+        "trigger":null
+    },
+    "STEP_5":{
+        "replyMessage":[
+            "Muy bien te comparto el canal de Youtube \n",
+            "https://youtube.com/leifermendez \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_6":{
+        "replyMessage":[
+            "Perfecto, te voy a pasar la lista ",
+            "de los temas que tengo y un breve video 🙂🤖 \n\n",
+            "*Angular* Basico (Pago) \n",
+            "*Angular* Basico (Gratis) \n",
+            "*Node* Basico (Gratis) \n",
+            "*NGRX* Basico (Gratis) \n",
+            "*AWS* Basico (Pago) \n\n",
+            "Escribe la palabra del tema que te interese \n"
+        ],
+        "media":"https://i.giphy.com/media/5J5gN0WUk0VToHaK2p/giphy-downsized.gif",
+        "trigger":null
+    },
+    "STEP_7":{
+        "replyMessage":[
+            "Vente al telegram \n",
+            "https://t.me/leifermendez \n"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_8":{
+        "replyMessage":[
+            "Esto es una nota de voz \n"
+        ],
+        "media":"nota-de-voz.mp3",
+        "trigger":null
+    }
+}
