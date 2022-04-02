@@ -1,200 +1,200 @@
 {
     "DEFAULT":{
-        "replyMessage":[
-            "Hola!✌️ Gracias por comuncarte a PIXLAPIX, yo soy PIXI y soy un CHATBOT🤖 de Whatsapp, te ayudare a elegir el servicio que requieras 😎 \n\n",
-            "Nuestros servicios incluyen \n",
-            "1. Web \n",
-            "2. Video \n",
-            "3. Animacion \n",
-            "4. Diseño, Marqueting e impresos \n",
-            "5. Relaciones publicas \n",
-            "6. Sistematizacion \n",
-            "7. Habla con un Asesor \n \n",
-            "puedes ingresar a nuestra pagina web \n",
-            "https://www.pixlapix.net/ \n\n",
-            "Responde con el numero de opcion"
-        ],
-        "media":null,
-        "trigger":null
+            "replyMessage":[
+                "〰️〰️〰️〰️〰️"          
+            ],
+            "media":null,
+            "trigger":null,
+            "actions":{
+                "title":"Hola! 😄👋 \n Prueba escribiendo ⌨️ hola o dale click al boton 😊",
+                "message":"⬇️⬇️⬇️",
+                "footer":"",
+                "buttons":[
+                    {"body":"Dame click 😎"}                                                   
+                ]
+            }        
     },
-    "SALUDO":{
-        "replyMessage":[
-            "Hola!✌️ Gracias por comuncarte a PIXLAPIX, yo soy PIXI y soy un CHATBOT🤖 de Whatsapp, te ayudare a elegir el servicio que requieras 😎 \n\n",
-            "Nuestros servicios incluyen \n",
-            "1. Web \n",
-            "2. Video \n",
-            "3. Animacion \n",
-            "4. Diseño, Marqueting e impresos \n",
-            "5. Relaciones publicas \n",
-            "6. Sistematizacion \n",
-            "7. Habla con un Asesor \n \n",
-            "puedes ingresar a nuestra pagina web \n",
-            "https://www.pixlapix.net/ \n\n",
-            "Responde con el numero de opcion"
-        ],
-        "media":null,
-        "trigger":null
+    "hola hola":{
+            "replyMessage":[
+                "⬆️⬆️⬆️ *Selecciona una opcion* ⬆️⬆️⬆️ \n\n",
+                "Tambien Puedes ingresar a nuestra página web 😉 \n",
+                "https://www.pixlapix.net/"
+            ],
+            "media":null,
+            "trigger":null,
+            "actions":{
+                "title":"¡Hola! ✌️ Gracias por comunicarte a Pixlapix \n\n Yo soy PIXI y soy un bot 🤖 te ayudare a elegir el servicio que requieras.\n ",
+                "message":"*Nuestros servicios incluyen:*",
+                "footer":"",
+                "buttons":[
+                    {"body":"🕸️Web 📽️Video"},
+                    {"body":"⭐Animacion✅Disenio e Impresos"},                
+                    {"body":"🤝Relaciones Publicas 👨‍💻Sistematizacion"}
+                ]
+            }
     },
-    "WEB":{
+    "1boton":{
         "replyMessage":[
-            "1. Paginas Web \n",
-            "2. Paginas Wordpress \n",
-            "3. SEO \n",
-            "4. SEM \n",
-            "5. E-learning \n",
-            "6. Presentaciones profesionales \n",
-            "7. Mailing masivo \n \n"
+            "✅✅✅✅"           
         ],
         "media":null,
-        "trigger":null
-            
-            
+        "trigger":null,
+        "actions":{
+            "title":"Selecciona una opcion 😎",
+            "message":"⬇️⬇️⬇️",
+            "footer":"",
+            "buttons":[
+                {"body":"🕸️Web"},
+                {"body":"📽️Video"},
+                {"body":"✈️menu principal"}                               
+            ]
+        }
+    },
+    "web":{
+        "replyMessage":[
+            "⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️\n",
+            "🤗Estos son algunos casos de Exito de nuestros productos web🤗 \n",
+            "Da click en el boton *Quiero informacion* y nos comunicaremos contigo \n o escribe *menu* para ir al menu principal"            
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"Informacion de Nuestros Productos Web 👩‍🏫 \n Pixlapix ofrece: 💁‍♀️ \n\n 🖥️Paginas web a medida y pedido especifico del cliente. \nO tambien con el uso de ⚡Wordpress⚡ como herramienta para generar paginas web de manera estandar👌 \n\n 😮Tambien tenemos servicios de: \n\n SEO y SEM \n 🤖E-learning \n Presentaciones profesionales \n Q&A Testing \n 🎮Videojuegos \n UI/UX \n 📧Mailing masivo📧",
+            "message":
+                "✅✅✅✅",
+            "footer":"",
+            "buttons":[
+                {"body":"https://pixlapix.com/resources/portafolio/"},
+                {"body":"https://segurosalfil.com/"},
+                {"body":"Quiero informacion!"}                
+            ]
+        }
     },
     "video":{
         "replyMessage":[
-            "1. Produccion de video: \n",
-            " \t -televisiva \n",
-            " \t -alta resolucion \n",
-            " \t -Youtube \n",
-            "2. Edicion \n",
-            "3. Locucion \n",
-            "4. Audio y Musica \n \n",
-            "5. Levantamiento de imagen \n"
-            
+            "⬆️⬆️⬆️\n",
+            "*visita nuestro canal de youtube\n*",
+            "https://www.youtube.com/channel/UCc_V3U33nbkG9K-hcZDZxaQ/featured"           
         ],
-
         "media":null,
-        "trigger":null
+        "trigger":null,    
+        "actions":{
+            "title":"Informacion de Video 👩‍🏫 \n *Pixlapix ofrece: 💁‍♀️ \n\n 🖥️Produccion de video \n \t Televisiva \n\t Alta resolucion \n\t Youtube \n Locucion \n Audio y Musica \n Levantamiento de imagen \n Motion Grapics*",
+            "message":"✅✅✅✅",
+            "footer":"",
+            "buttons":[
+                {"body":"✈️menu principal"}                            
+            ]
+        }
+    },    
+    "2boton":{
+        "replyMessage":[
+            "✅✅✅✅"           
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"Selecciona una opcion 😎",
+            "message":"⬇️⬇️⬇️",
+            "footer":"",
+            "buttons":[
+                {"body":"👨‍💻Animacion"},
+                {"body":"✅Diseño e impresos"},
+                {"body":"✈️Menu Principal"}             
+            ]
+        }
     },
     "animacion":{
         "replyMessage":[
-            "1. 2D \n",
-            "2. 3D \n",
-            "3. Motion Graphics \n",
-            "4. Ilustracion \n",
-            "5. Stickers para WP y Telegram \n",
-            "6. Animacion para videojuego HML5 \n"
-            
+            "¿No encuentra la opción que requiere?\n",
+            "Escribe *asesor* para Hablar con nuestro asesor de L a V de 7:00 a 22:00"
         ],
         "media":null,
-        "trigger":null
+        "trigger":null,
+        "actions":{
+            "title":"Pixlapix ofrece: 💁‍♀️ \n\n 😲2D \n  🤩3D \n 🤾‍♂️Motion graphics \n 🍪Ilustracion \n 🤭Stickers para Wp y Telegram \n 🕹️Animacion y videojuegos \n ",
+            "message":"✅✅✅✅",
+            "footer":"",
+            "buttons":[
+                {"body":"✈️menu principal"}                
+            ]
+        }
     },
-    "impresos":{
+    "diseno":{
         "replyMessage":[
-            "1. Revistas electronicas  \n",
-            "2. Revistas impresas \n",
-            "3. Libros Electronicos \n",
-            "4. Libros impresos \n",
-            "5. Edicion, Redaccion y correccion de estilo en textos \n",
-            "6. Branding \n",
-            "7. Mercadotecnia digital \n",
-            "8. Inbound marqueting \n",
-            "9. BTL \n",
-            "10. Infografia \n",
-            "11. Fotografia \n",
-            "12. Diseño \n"
-            
+            "¿No encuentra la opción que requiere?\n",
+            "Escribe *asesor* para Hablar con nuestro asesor de L a V de 7:00 a 22:00"            
         ],
         "media":null,
-        "trigger":null
+        "trigger":null,
+        "actions":{
+            "title":" Informarcion de Diseño \n\n Pixlapix ofrece: 💁‍♀️ \n\n ◼️Revistas electronicas \n ◼️Revistas Impresas \n ◼️Libros Electronicos \n ◼️Edición \n ◼️redacción y corrección de estilo en textos \n ◼️Branding \n ◼️Mercadotecnia digital \n ◼️Inbound Marketing \n ◼️BTL \n ◼️Infrografia \n ◼️Fotografia \n ◼️Diseno ",
+            "message":"📔📔📔📔📔📔📔📔📔📔📔",
+            "footer":"",
+            "buttons":[
+                {"body":"✈️menu principal"}                
+            ]
+        }
+    },    
+    "3boton":{
+        "replyMessage":[
+            "⬆️⬆️⬆️\n"           
+        ],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"Selecciona una opcion 😎",
+            "message":"⬇️⬇️⬇️",
+            "footer":"",
+            "buttons":[
+                {"body":"🤝relaciones publicas"},
+                {"body":"👨‍💻Sistematizacion"}
+            ]
+        }
     },
     "relaciones":{
         "replyMessage":[
-            "1. Estrategia de reputacion corporativa \n",
-            "2. Entrenamiento de medios \n",
-            "3. Auditoría de medios \n",
-            "4. Mapeo de medios \n",
-            "5. Mapeo de foros \n",
-            "6. Plataforma de mensajes clave \n",
-            "7. Comunicación Interna \n",
-            "8. Newsletter interno \n",
-            "9. Town Hall \n",
-            "10. Relación con medios \n",
-            "11. Comunicados de prensa \n",
-            "12. Infografías \n",
-            "13. Entrevistas 1:1 \n",
-            "14. Reuniones de buena voluntad \n",
-            "15. Mesa redonda \n",
-            "16. Convocatoria de medios a eventos corporativos \n",
-            "17. Cultura corporativa \n",
-            "18. Manejo de redes sociales \n",
-            "19. Baclinks \n",
-            "20. Control de crisis \n",
-            "21. Aumento de vistas en redes \n"
+            "¿No encuentra la opción que requiere?\n",
+            "Escribe *asesor* para Hablar con nuestro asesor de L a V de 7:00 a 22:00"
         ],
         "media":null,
-        "trigger":null
+        "trigger":null,
+        "actions":{
+            "title":"Pixlapix ofrece: 💁‍♀️ \n\n ◼️Estrategia de reputación corporativa \n ◾Entrenamiento de medios \n ◾Auditoría de medios \n ◾Mapeo de medios \n ◾Mapeo de foros \n ◾Plataforma de mensajes clave \n ◾Comunicación Interna \n ◾Newsletter interno \n ◾Town Hall \n ◾Relación con medios \n ◾Comunicados de prensa \n ◾Infografías \n ◾Entrevistas 1:1 \n ◾Reuniones de buena voluntad \n ◾Mesa redonda \n ◾Convocatoria de medios a eventos corporativos \n ◾Cultura corporativa \n ◾Manejo de redes sociales \n ◾Baclinks \n ◾Control de crisis \n ◾Aumento de vistas en redes",
+            "message":"✅✅✅✅",
+            "footer":"",
+            "buttons":[
+                {"body":"✈️menu principal"}                
+            ]
+        }
     },
     "sistema":{
         "replyMessage":[
-            "1. Creación de Chatbots \n",
-            "2. Newsletter masivo \n",
-            "3. Pixeles \n",
-            "4. Indexado \n",
-            "5. QR personalizados \n",
-            "6. APIs \n"
-            
+            "¿No encuentra la opción que requiere?\n",
+            "Escribe *asesor* para Hablar con nuestro asesor de L a V de 7:00 a 22:00"    
         ],
         "media":null,
-        "trigger":null
+        "trigger":null,
+        "actions":{
+            "title":"Pixlapix ofrece: 💁‍♀️ \n\n ◼️Creación de Chatbots \n ◾Newsletter masivo \n ◾Pixeles \n ◾Indexado \n ◾QR personalizados\n ◾APIs",
+            "message":"✅✅✅✅",            
+            "footer":"",
+            "buttons":[
+                {"body":"✈️menu principal"}            ]
+        }
     },
-    
-    "asesor":{
+    "info":{
         "replyMessage":[
-            "¿No encuentra la opción que requiere? \n",
-            "Hable con nuestro asesor de L a V de 7:00 a 22:00 \n",
-            "Gracias por comunicarse a PIXLAPIX.    Materializamos ideas y con tecnología innovamos"
+            "⬆️⬆️⬆️⬆️⬆️⬆️"           
         ],
         "media":null,
-        "trigger":null
-    },
-    
-    
-    
-    
-    
-    "STEP_4":{
-        "replyMessage":[
-            "Gracias a ti! \n"
-        ],
-        "media":"https://media4.giphy.com/media/hur0SFIU5SH4mxNBWa/giphy.gif",
-        "trigger":null
-    },
-    "STEP_5":{
-        "replyMessage":[
-            "Muy bien te comparto el canal de Youtube \n",
-            "https://youtube.com/leifermendez \n"
-        ],
-        "media":null,
-        "trigger":null
-    },
-    "STEP_6":{
-        "replyMessage":[
-            "Perfecto, te voy a pasar la lista ",
-            "de los temas que tengo y un breve video 🙂🤖 \n\n",
-            "*Angular* Basico (Pago) \n",
-            "*Angular* Basico (Gratis) \n",
-            "*Node* Basico (Gratis) \n",
-            "*NGRX* Basico (Gratis) \n",
-            "*AWS* Basico (Pago) \n\n",
-            "Escribe la palabra del tema que te interese \n"
-        ],
-        "media":"https://i.giphy.com/media/5J5gN0WUk0VToHaK2p/giphy-downsized.gif",
-        "trigger":null
-    },
-    "STEP_7":{
-        "replyMessage":[
-            "Vente al telegram \n",
-            "https://t.me/leifermendez \n"
-        ],
-        "media":null,
-        "trigger":null
-    },
-    "STEP_8":{
-        "replyMessage":[
-            "Esto es una nota de voz \n"
-        ],
-        "media":"nota-de-voz.mp3",
-        "trigger":null
-    }
+        "trigger":null,
+        "actions":{
+            "title":"Gracias por comunicarse a PIXLAPIX. Materializamos ideas y con tecnología innovamos \n Un asesor se comunicara dentro de *(tiempo medio de respuesta aproximado:20min)*",
+            "message":"✅✅✅✅",
+            "footer":"",
+            "buttons":[
+                {"body":"✈️menu principal"}            ]
+        }
+    }    
 }
