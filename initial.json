@@ -1,87 +1,51 @@
-[
-    {
-        "keywords":  [
-            "hola",
-            "hola!",
-            "ola",
-            "ole",
-            "inicio",
-            "welcome",
-            "buenos días",
-            "buenas tardes",
-            "buenas noches",
-            "me dieron este número",
-            "venden a crédito",
-            "quisiera saber si venden",
-            "necesito saber"
-        ],
-        "key": "SALUDO"
+        ["🕸️web 📽️video"],
+        "key":"1boton"
     },
     {
-        "keywords":  [
-            "1"
-        ],
-        "key": "WEB"
+        "keywords":
+        ["🕸️web"],
+        "key":"web"
     },
     {
-        "keywords":  [
-            "2"
-        ],
-        "key": "video"
+        "keywords":
+        ["📽️video"],
+        "key":"video"
     },
     {
-        "keywords":  [
-            "3"
-        ],
-        "key": "animacion"
+        "keywords":
+        ["👨‍💻animacion"],
+        "key":"animacion"
     },
     {
-        "keywords":  [
-            "4"
-        ],
-        "key": "impresos"
+        "keywords":
+        ["⭐animacion✅disenio e impresos"],
+        "key":"2boton"
     },
     {
-        "keywords":  [
-            "5"
-        ],
-        "key": "relaciones"
+        "keywords":
+        ["✅diseño e impresos"],
+        "key":"diseno"
     },
     {
-        "keywords":  [
-            "6"
-            
-        ],
-        "key": "sistema"
+        "keywords":
+        ["🤝relaciones publicas 👨‍💻sistematizacion"],
+        "key":"3boton"
     },
     {
-        "keywords":  [
-            "7"
-        ],
-        "key": "asesor"
+        "keywords":
+        ["🤝relaciones publicas"],
+        "key":"relaciones"
     },
     {
-        "keywords":  [
-            "8"
-        ],
-        "key": "STEP_5"
+        "keywords":
+        ["👨‍💻sistematizacion"],
+        "key":"sistema"
     },
     {
-        "keywords":  [
-            "VER_CURSOS"
-        ],
-        "key": "STEP_6"
-    },
-    {
-        "keywords":  [
-            "telegram"
-        ],
-        "key": "STEP_7"
-    },
-    {
-        "keywords":  [
-            "audio"
-        ],
-        "key": "STEP_8"
+        "keywords":
+        ["quiero informacion!","asesor"],
+        "key":"info"
     }
+
+    
 ]
