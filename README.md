@@ -1,2 +1,1 @@
-# bot-pixlapix
-this is a test, since I am learning how to use git so that
+json files to create conversation in the dialogFlow bot 
